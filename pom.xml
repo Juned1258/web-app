@@ -15,15 +15,15 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <plugins>
+  <we have learn about branches>
+  <build>
+     <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.2.2</version>
             </plugin>
     </plugins>
-  <we have learn about branches>
-  <build>
     <finalName>01-Maven-WebApp</finalName>
   </build>
 </project>
