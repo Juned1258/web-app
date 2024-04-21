@@ -15,8 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <compile>
-  <run>
   <we have learn about branches>
   <build>
     <finalName>01-Maven-WebApp</finalName>
