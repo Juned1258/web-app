@@ -22,4 +22,5 @@
   <build>
     <finalName>01-Maven-WebApp</finalName>
   </build>
+  </test> 
 </project>
